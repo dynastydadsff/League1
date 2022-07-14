@@ -24,43 +24,43 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 export const managers = [
   {
    "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Lee L.",
-    },
-    {
-      "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Matt D.",
     },
     {
-      "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Caleb W.",
-    },
-    {
-      "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Ryan N.",
     },
     {
-      "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "Brian W.",
+    },
+    {
+      "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Corey C.",
     },
     {
+      "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "Taylor J.",
+    },
+    {
       "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Logan O.",
+      "name": "Jordan H.",
     },
     {
       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Jacob S.",
+      "name": "Trevor H.",
     },
     {
       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Mitch W.",
+      "name": "Matt R.",
     },
     {
       "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Bryan M.",
+      "name": "Jared P.",
     },
     {
       "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Trevor H.",
+      "name": "Lee L.",
     },
     {
       "roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
@@ -68,7 +68,7 @@ export const managers = [
     },
     {
       "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Chris B.",
+      "name": "Kurt G.",
   },
 ]
   
