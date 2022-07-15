@@ -25,50 +25,62 @@ export const managers = [
   {
    "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Matt D.",
+      "mode": "Dynasty",
     },
     {
       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Ryan N.",
+      "mode": "Rebuild",
     },
     {
       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Brian W.",
+      "mode": "Win Now",
     },
     {
       "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Corey C.",
+      "mode": "Rebuild",
     },
     {
       "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Taylor J.",
+      "mode": "Dynasty",
     },
     {
       "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Jordan H.",
+      "mode": "Win Now",
     },
     {
       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Trevor H.",
+      "mode": "Rebuild",
     },
     {
       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Matt R.",
+      "mode": "Dynasty",
     },
     {
       "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Jared P.",
+      "mode": "Win Now",
     },
     {
       "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Lee L.",
+      "mode": "Dynasty",
     },
     {
       "roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Mike K.",
+      "mode": "Dynasty",
     },
     {
       "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Kurt G.",
+      "mode": "Win Now",
   },
 ]
   
